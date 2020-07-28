@@ -1,0 +1,4 @@
+C:\Users\SSSUDH.ACEINA\source\repos\PeopleCRUD\PeopleCRUD\bin\Debug\netcoreapp3.1\PeopleCRUD.exe
+C:\Users\SSSUDH.ACEINA\source\repos\PeopleCRUD\PeopleCRUD\obj\Debug\netcoreapp3.1\PeopleCRUD.csprojAssemblyReference.cache
+C:\Users\SSSUDH.ACEINA\source\repos\PeopleCRUD\PeopleCRUD\obj\Debug\netcoreapp3.1\PeopleCRUD.AssemblyInfoInputs.cache
+C:\Users\SSSUDH.ACEINA\source\repos\PeopleCRUD\PeopleCRUD\obj\Debug\netcoreapp3.1\PeopleCRUD.AssemblyInfo.cs
